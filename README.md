@@ -15,6 +15,6 @@ What I learned from building this:
 This thing is not perfect have a lot of flaws, I learned from others too building this thing and suffers from it
 It's my first attempt to dive into the world of programming, it's a bit late upload, the files are old but it's my first major programming build assignment and I'm suffering from trauma doing it (jk)
 
-This acts as a foundation for me to learn other programming language as I'm currently wants to focus more on C# and go all in to the ecosystem. I was planning to refactor this code but I'm a bit too lazy to do it. Maybe I just give chatGPT my code, it can do better
+This acts as a foundation for me to learn other programming language as I'm currently wants to focus more on C#. I was planning to refactor this code but I'm a bit too lazy to do it. Maybe I just give chatGPT my code, it can do better
 
 "If its already works, don't touch it again"
