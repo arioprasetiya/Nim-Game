@@ -3,7 +3,7 @@ This is one of my first coding project assignment for my class during my masters
 
 It's a nim game with simple ai, and can be played with 2 player with turn based system. I learned a lot from making this game.
 
-This is actually part 3 and the last part of the assignment. We start simple from just playing the game of nim initially and expands into adding functions, command input, able to save the game into text, read from the text, streamable input
+This is actually part 3 and the last part of the assignment. We start simple from just playing the game of nim initially and expands into adding functions, command input, ability to save the game into text, read from the text, streamable input
 
 It's built using Java, standard library only.
 What I learned from building this:
